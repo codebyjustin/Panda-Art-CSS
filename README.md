@@ -1,5 +1,4 @@
 # panda-art-css
-Panda Drawing made out of HTML &amp; CSS
+Panda Drawing made out of HTML &amp; CS
 
-![](/Screenshot_2020-07-13 Document.png)
-
+❮img src="https://raw.githubusercontent.com/codebyjustin/panda-art-css/master/Screenshot_2020-07-13%20Document.png" ❯
